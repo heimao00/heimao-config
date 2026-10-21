@@ -4,6 +4,6 @@
   "rules": [
     { "name": "plugin_hd", "state": "on" },
     { "name": "plugin_mt", "state": "on" },
-    { "name": "plugin_tmz", "state": "off" }
+    { "name": "plugin_tmz", "state": "on" }
   ]
 }
