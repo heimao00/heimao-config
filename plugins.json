@@ -11,7 +11,7 @@
     },
     {
       "name": "plugin_mt",
-      "state": "off",
+      "state": "on",
       "appLabel": "美图设计室",
       "action": "VIP 解锁",
       "ver": "适配 8.22.2"
