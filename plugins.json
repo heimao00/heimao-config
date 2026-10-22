@@ -2,7 +2,7 @@
   "version": 1,
   "_说明": "把本文件放到你的 GitHub 仓库根目录（如 heimao-config/plugins.json）。state 取值：on=开, off=关（不加载,界面显示关闭）, deleted=删除（不加载,界面隐藏）。name 可用文件名、去扩展名名或目标包名。删除某项就是把它从本列表删除,或在列表里把它的 state 改为 deleted。appLabel=中文名, action=功能（免广告/VIP解锁）, ver=适配版本。",
   "rules": [
-    { "name": "plugin_hd", "state": "off", "appLabel": "去水印视频解析", "action": "VIP 解锁", "ver": "适配 1.1.33" },
+    { "name": "plugin_hd", "state": "on", "appLabel": "去水印视频解析", "action": "VIP 解锁", "ver": "适配 1.1.33" },
     { "name": "plugin_mt", "state": "off", "appLabel": "美图设计室", "action": "VIP 解锁", "ver": "适配 8.22.2" },
     { "name": "plugin_tmz", "state": "off", "appLabel": "天际影视", "action": "免广告", "ver": "适配 5.1.0" }
   ]
