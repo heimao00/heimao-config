@@ -1,0 +1,7 @@
+{
+  "versionCode": 10004,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/heimao00/heimao-config/releases/latest/download/heimao-host.apk",
+  "force": false,
+  "_说明": "宿主启动同步时读取本文件。versionCode 大于本地版本时触发更新提示；force=true 强制更新（取消会反复提醒）。"
+}
